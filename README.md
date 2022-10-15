@@ -1,3 +1,3 @@
 # How to play
 
-> Run main.exe
+> Run main.
